@@ -1,5 +1,5 @@
 # Trabalho acadêmico, Engenharia da computação (Instituto Infnet - 3 semestre)
-## Teste de Performance 1 - Fundamentos de desenvolvimento Java
+## Teste de Performance 1 - Desenvolvimento de Serviços Web e Testes com Java
 
 ### Importante
 O projeto só irá funciona caso o caminho da pasta "dados" se mantenha no seguinte padrão, C:/Diretório de sua escolha/nome da pasta do projeto/src/Data
